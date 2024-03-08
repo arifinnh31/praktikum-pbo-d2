@@ -1,5 +1,5 @@
 /* 
- * File      : Asersi1.java 06/03/24
+ * File      : Asersi2.java 06/03/24
  * Penulis   : Arifin Nurmuhammad Haris
  * Deskripsi : Program untuk demo asersi, yang akan menolak input
  *             jari-jari yang bernilai nol
@@ -22,7 +22,7 @@ class Lingkaran {
 // class Asersi2
 public class Asersi2 {
     public static void main(String[] args) {
-        double jariJari = 7;
+        double jariJari = 0;
         assert (jariJari != 0) : "jari jari tidak boleh nol!!!";
         Lingkaran l = new Lingkaran(jariJari);
         double kelilingLingkaran = l.hitungKeliling();

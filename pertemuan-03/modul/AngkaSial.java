@@ -1,5 +1,5 @@
 /* 
- * File      : AngkaSial.java    06/03/24
+ * File      : AngkaSial.java   06/03/24
  * Penulis   : Arifin Nurmuhammad Haris
  * Deskripsi : Program penggunaan exception buatan sendiri
  *             Pengenalan klausa 'throw' dan 'throws'

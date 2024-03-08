@@ -1,5 +1,5 @@
 /* 
- * File      : ExceptiononArray.java    06/03/24
+ * File      : AngkaSialException.java  06/03/24
  * Penulis   : Arifin Nurmuhammad Haris
  * Deskripsi : Eksepsi buatan sendiri, menolak masukan angka 13!
  */
